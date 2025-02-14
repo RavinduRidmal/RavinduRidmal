@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ravindu Ridmal
 - 👀 I’m interested in computers and how they work.
-- 🌱 I’m currently a student.
+- 😁 I’m currently a student.
 - ✅ I'm intersted in learning new things.
 
 <!---
