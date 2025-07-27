@@ -1,19 +1,33 @@
-- 👋 Hi, I’m Ravindu Ridmal
-- 👀 I’m interested in computers and how they work.
-- 😁 I’m currently a student.
-- ✅ I'm intersted in learning new things.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ravindu+Ridmal+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!+%F0%9F%8C%9F" alt="Welcome Animation" />
+</p>
 
-<!---
-RavinduRidmal/RavinduRidmal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!---<h2 align='left'>📊 GitHub Stats</h2>
+---
 
-<a href="https://github.com/YutharsanS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduRidmal&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
+## 👋 About Me
 
-<a href="https://github.com/YutharsanS/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RavinduRidmal&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ayesh's GitHub Stats" />
-</a>
---->
+- Student with a deep passion for computers and technology
+- Curious about how things work under the hood
+- Loves low-level programming and embedded systems programming.
+- Currently learning new skills every day
+- Always looking to explore and create
+
+---
+
+## 🛠️ Tech Stack
+
+![Languages](https://skillicons.dev/icons?i=python,java,js,cpp,c)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![Gmail](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:your.email@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RavinduRidmal&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
